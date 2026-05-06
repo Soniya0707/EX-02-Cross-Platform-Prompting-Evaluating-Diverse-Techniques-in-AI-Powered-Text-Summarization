@@ -1,5 +1,6 @@
 # EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization
 
+## Name:Soniya D(212223060268)
 ## AIM
 To evaluate and compare the effectiveness of prompting techniques (zero-shot, few-shot, chain-of-thought, role-based) across different AI platforms (e.g., ChatGPT, Gemini, Claude, Copilot) in a specific task: text summarization.
 
@@ -40,6 +41,14 @@ Blockchain is a decentralized, tamper-resistant digital ledger where data blocks
 
 Blockchain technology is a decentralized, immutable ledger system that records transactions across a peer-to-peer network without the need for a central authority. By grouping data into "blocks" secured by cryptographic hashes, it ensures that once information is recorded, it cannot be altered or deleted, fostering transparency and trust. Modern networks utilize consensus mechanisms to validate data and employ smart contracts to automate complex agreements. Since its inception with Bitcoin, the technology has evolved into a robust infrastructure for institutional finance and supply chains, offering a highly secure, transparent, and efficient alternative to traditional centralized databases.
 
+## Evaluation Table
+
+| AI Platform   | Accuracy | Coherence | Simplicity | Speed | User Experience | Comments                                                              | Final Grade |
+| ------------- | -------- | --------- | ---------- | ----- | --------------- | --------------------------------------------------------------------- | ----------- |
+| **ChatGPT**   | 9/10     | 9/10      | 9/10       | 10/10 | 9/10            | Clear, simple, concise; easy for undergraduates to read               | **A**       |
+| **Deepseek**    | 10/10    | 9/10      | 8/10       | 9/10  | 8/10            | Very detailed and accurate and easy to understand. | **A-**      |
+| **Gemni** | 9/10     | 9/10      | 9/10       | 9/10  | 9/10            | Good explanation, slightly longer sentences; still understandable     | **A**       |
+
 ## Few-shot:
 ## Definition:
 **Few-shot** prompting is a technique where you give an AI model a few examples of a task before asking it to perform a similar task.
@@ -57,6 +66,15 @@ Bitcoin uses blockchain to enable peer-to-peer payments without banks, storing e
 ## Gemni:
 **The Basics of Blockchain Technology**
 Blockchain technology transforms finance and business by eliminating intermediaries through decentralized ledgers. As demonstrated by Bitcoin, it enables direct peer-to-peer payments, utilizing a public record that ensures transparency and security without requiring traditional banks. Beyond currency, the technology supports smart contracts—automated programs that execute transactions only when specific conditions are met. Together, these innovations reduce the need for middlemen, cut costs, and streamline complex deals. By replacing central authorities with cryptographic verification and automated code, blockchain creates a high-trust environment for global digital exchange, making it a foundational tool for the modern digital economy.
+
+## EVALUATION TABLE
+
+| AI Platform   | Accuracy (10) | Coherence (10) | Simplicity (10) | Speed (10) | User Experience (10) | Comments                                                                                          | Final Grade |
+| ------------- | ------------- | -------------- | --------------- | ---------- | -------------------- | ------------------------------------------------------------------------------------------------- | ----------- |
+| **ChatGPT**   | 10            | 10             | 10              | 10         | 10                   | Clear, concise, and very easy for undergraduates to understand                                    | **A**       |
+| **Deepseek**    | 10            | 9              | 9               | 9          | 9                    | Extremely accurate and detailed, slightly technical; longer sentences may be harder for beginners | **A-**      |
+| **Gemni** | 10            | 10             | 9               | 9          | 10                   | Accurate, coherent, slightly longer sentences, still readable; excellent user experience          | **A**       |
+
 
 ## Chain-of-thought:
 ## Definition:
@@ -76,6 +94,14 @@ Blockchain is a decentralized digital ledger where data is grouped into cryptogr
 ## Gemni:
 **The Basics of Blockchain Technology**
 Blockchain is a decentralized ledger that records data through a secure, step-by-step process of transaction initiation, network verification, and cryptographic "chaining." By grouping transactions into blocks linked by unique hashes, it ensures that data is immutable and transparent without needing a central authority. In 2026, its applications have expanded into "invisible infrastructure," powering everything from instant global finance (DeFi) and the tokenization of real-world assets to providing an audit trail for AI. Ultimately, blockchain replaces traditional middlemen with automated trust, making digital exchanges faster, cheaper, and significantly more secure for users worldwide.
+
+## EVALUATION TABLE
+| **Platform**  | **Accuracy** | **Coherence** | **Simplicity** | **Speed** | **User Experience** | **Average Score (/10)** | **Remarks**                                                                       |
+| ------------- | ------------ | ------------- | -------------- | --------- | ------------------- | ----------------------- | --------------------------------------------------------------------------------- |
+| **ChatGPT**   | 10           | 10            | 10             | 10        | 10                  | **10.0**                | Very clear, accurate, and student-friendly summary. |
+| **Deepseek**    | 10           | 9             | 9              | 9         | 9                   | **9.2**                 | Accurate and detailed, but slightly more technical and wordy.                     |
+| **Gemni** | 10           | 10            | 9              | 9         | 10                  | **9.6**                 | Balanced, professional, and coherent. Slightly complex .        |
+
 ## Role-Based prompting:
 ## Definition:
 Role-based prompting is a technique where you assign a specific role or identity to the AI before asking a question.
@@ -93,6 +119,18 @@ A blockchain is a digital record book shared across many computers. Instead of o
 **The Basics of Blockchain Technology**
 Blockchain technology acts as a shared digital notebook that records information in a way that is nearly impossible to change. Instead of one bank or company controlling the data, copies are shared across thousands of computers globally.
 When a transaction occurs, the network verifies it, bundles it into a "block," and links it to previous entries using a unique digital fingerprint. This creates a permanent, transparent chain. By removing the need for middlemen, blockchain makes digital activities—from sending money to signing contracts—faster, more secure, and accessible to everyone without requiring a central authority.
-## Result
 
+## EVALUATION TABLE
+
+| **AI Platform** | **Accuracy** | **Coherence** | **Simplicity** | **Speed** | **User Experience** | **Average Score (/10)** | **Remarks**                                                             |
+| --------------- | ------------ | ------------- | -------------- | --------- | ------------------- | ----------------------- | ----------------------------------------------------------------------- |
+| **ChatGPT**     | 10           | 10            | 10             | 10        | 10                  | **10.0**                | Very clear, simple, and educational tone. |
+| **Deepseek**      | 10           | 10            | 9              | 9         | 9                   | **9.4**                 | Accurate and detailed but uses slightly complex phrasing.               |
+| **Gemni**   | 10           | 10            | 9              | 9         | 10                  | **9.6**                 | Balanced and informative, slightly more formal tone.  
+
+## Overall Performance:
+<img width="562" height="435" alt="image" src="https://github.com/user-attachments/assets/e5e9415d-b476-4499-85df-10c158564402" />
+
+## Result
+ The results of this evaluation will be presented in a structured format, providing a clear comparison of the effectiveness of different prompting techniques across the chosen AI platforms for the task of summarizing the technical article on "The Basics of Blockchain Technology."
 
